@@ -1,6 +1,6 @@
 # Setup & Integrate Code Quality and Analysis Tools on Jenkins
 
-Certainly! Here's a detailed process for installing SonarQube Scanner, Checkstyle, PMD, and FindBugs on Jenkins:
+ Here are the comprehensive instructions for installing SonarQube Scanner, Checkstyle, PMD, and FindBugs on Jenkins:
 
 1. **SonarQube Scanner**:
 
