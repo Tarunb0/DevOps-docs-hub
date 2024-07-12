@@ -2,7 +2,8 @@
 
 ![Ansible](https://imgur.com/5HTcLFJ.png)
 
-To install and configure Ansible on Ubuntu, you can follow these steps. Ansible is an open-source automation tool that simplifies configuration management, application deployment, and task automation.
+Installation and configuring Ansible on Ubuntu, you can follow these steps. 
+Ansible is an open-source automation tool that simplifies configuration management, application deployment, and task automation.
 
 **Step 1: Update Package Lists**
 
@@ -114,4 +115,4 @@ This playbook will install Nginx on all hosts in the `[web]` group.
 
 You've now successfully installed and configured Ansible on Ubuntu. You can continue to create more playbooks to automate various tasks on your infrastructure.
 
-## By [Harshhaa](https://www.github.com/NotHarshhaa)
+
