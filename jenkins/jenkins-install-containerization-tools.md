@@ -1,6 +1,6 @@
 # Setup Containerization Tools on Jenkins
 
-here are the comprehensive and the detailed steps for installing Docker and Kubernetes CLI (kubectl) on a Jenkins server:
+Here are the comprehensive and the detailed steps for installing Docker and Kubernetes CLI (kubectl) on a Jenkins server:
 
 1. **Installing Docker**:
 
