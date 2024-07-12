@@ -1,8 +1,8 @@
 # Kubernetes (K8S) step-by-step installation guide on Ubuntu from scratch
 
 ![k8s](https://imgur.com/bKUeyKX.png)
-
-Certainly! Here's a step-by-step guide to installing Kubernetes (K8s) on Ubuntu from scratch. This guide will walk you through the process of setting up a basic Kubernetes cluster using `kubeadm`, `kubelet`, and `kubectl`.
+ The comprehensive instructions for installing Kubernetes (K8s) on Ubuntu from scratch.
+ This guide will walk you through the process of setting up a basic Kubernetes cluster using `kubeadm`, `kubelet`, and `kubectl`.
 
 **Prerequisites:**
 
