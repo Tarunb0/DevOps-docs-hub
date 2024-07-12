@@ -1,6 +1,6 @@
 # Installing and integrating Notification and Collaboration Tools on Jenkins
 
-Certainly! Below are the detailed steps for installing and integrating Slack CLI, Microsoft Teams, and an Email Client (SMTP) on Jenkins:
+ Here are the detailed steps for installing and integrating Slack CLI, Microsoft Teams, and an Email Client (SMTP) on Jenkins:
 
 1. **Installing Slack CLI**:
 
