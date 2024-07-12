@@ -13,12 +13,10 @@
 * Ansible
 * Terraform
 * AWS (Cloud)
-* Azure (Cloud)
 * Premotheous
 * Grafana
 * Chef
 * Puppet
 * Maven
-* Selenium
-* Splunk
+
 
