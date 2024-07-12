@@ -1,6 +1,6 @@
 # Setup & Installation for Testing tools on Jenkins
 
-Certainly! Here's a detailed process for installing JUnit and Selenium on a Jenkins server:
+ Here are the comprehensive instructions for installing JUnit and Selenium on a Jenkins server:
 
 1. **JUnit Installation**:
 
