@@ -1,6 +1,6 @@
 # Setup & Installation for Infrastructure as Code (IaC) Tools on Jenkins
 
- The detailed steps for installing Terraform, AWS CLI, Azure CLI, and Google Cloud SDK (gcloud) on a Jenkins server:
+Here are the comprehensive instructions for installing Terraform, AWS CLI, Azure CLI, and Google Cloud SDK (gcloud) on a Jenkins server:
 
 1. **Installing Terraform**:
 
