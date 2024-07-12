@@ -118,8 +118,5 @@ Implement security best practices, including IAM roles, network policies, and se
 
 Configure Horizontal Pod Autoscalers (HPA) and Cluster Autoscalers to automatically scale resources based on demand. Deploy across multiple Availability Zones for high availability.
 
-### 15. Documentation and Training:
-
-Document the architecture, deployment procedures, and best practices. Provide training sessions for developers and operators on Kubernetes, EKS, and related technologies.
 
 By following these steps, you can design and deploy a 10-microservices application on Amazon EKS with scalability, reliability, and maintainability.
