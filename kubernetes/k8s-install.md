@@ -96,4 +96,3 @@ You should see all nodes in the "Ready" state.
 
 Congratulations! You've successfully installed Kubernetes on Ubuntu from scratch. You can now deploy and manage containers using Kubernetes.
 
-## By [Harshhaa Reddy](https://www.github.com/NotHarshhaa)
