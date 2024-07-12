@@ -1,6 +1,6 @@
 # Setup and Install Deployment Tools on Jenkins
 
-Certainly! Below are the detailed steps for installing Ansible and Capistrano on a Jenkins server:
+Here are the comprehensive instructions for installing Ansible and Capistrano on a Jenkins server:
 
 1. **Installing Ansible**:
 
